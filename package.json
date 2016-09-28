@@ -1,0 +1,23 @@
+{
+  "name": "hongbao",
+  "version": "1.0.0",
+  "description": "redbox",
+  "main": "index.js",
+  "keywords": [
+      "bulid",
+      "hongbao",
+      "redbox"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hu Jinshou",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com:ifeng2016/Webpack-App.git"
+  }
+}
