@@ -4,9 +4,9 @@
   "description": "redbox",
   "main": "index.js",
   "keywords": [
-      "bulid",
-      "hongbao",
-      "redbox"
+    "bulid",
+    "hongbao",
+    "redbox"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,10 +14,21 @@
   "author": "Hu Jinshou",
   "license": "ISC",
   "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-react": "^6.11.1",
+    "bundle-loader": "^0.5.4",
+    "css-loader": "^0.25.0",
+    "jquery": "^3.1.1",
+    "jsx-loader": "^0.13.2",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "style-loader": "^0.13.1",
     "webpack": "^1.13.2"
   },
-  "repository" :
-  { "type" : "git"
-  , "url" : "http://github.com:ifeng2016/Webpack-App.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ifeng2016/hongbao"
   }
 }
