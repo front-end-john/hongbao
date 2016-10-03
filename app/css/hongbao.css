@@ -1,6 +1,6 @@
 body{
     background: url(../images/hongbao_bg.jpg) 0 -7% repeat-y;
-    background-size: 100%;
+    background-size: 100%; 
     max-width: 72rem;
     min-width: 320px;
     margin: 0 auto;
