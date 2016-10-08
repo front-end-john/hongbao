@@ -10,11 +10,11 @@ $ npm i -g webpack webpack-dev-server
 Then, clone the repo and install the dependencies.
 
 ```bash
-$ git clone git@github.com:ruanyf/webpack-demos.git
-$ cd webpack-demos
+$ git clone git@github.com:ifeng2016/hongbao.git <yourAppName>
+$ cd <yourAppName>
 $ npm install
 ```
-Now, play with the source files under the repo's demo* directories.
+Now, play with the source files under the repo's app directories.
 
 ```bash
 $ cd app
